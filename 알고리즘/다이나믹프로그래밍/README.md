@@ -6,3 +6,4 @@
 - [1,2,3 더하기](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/03_1%2C2%2C3%EB%8D%94%ED%95%98%EA%B8%B0)
 - [카드 구매하기](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/04_%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0)
 - [쉬운 계단수](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/06_%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%EC%88%98)
+- [오르막 수](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/07_%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98)
