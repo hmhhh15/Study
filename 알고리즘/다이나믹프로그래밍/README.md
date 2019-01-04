@@ -8,3 +8,4 @@
 - [쉬운 계단수](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/06_%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%EC%88%98)
 - [오르막 수](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/07_%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98)
 - [이친수](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/08_%EC%9D%B4%EC%B9%9C%EC%88%98)
+- [스티커](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/09_%EC%8A%A4%ED%8B%B0%EC%BB%A4)
