@@ -11,8 +11,8 @@ int Max(int a, int b)
 
 void main()
 {
-	int n;				//n번째 열
-	int T;				//테스트 케이스
+	int n;			//n번째 열
+	int T;			//테스트 케이스
 	int size = 100000;
 	vector<int> v[2];	//위 아래 배열
 	vector<int> d[3];	//0, 위, 아래
