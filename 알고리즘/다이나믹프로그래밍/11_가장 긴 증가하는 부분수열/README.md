@@ -13,7 +13,7 @@ int main()
 
 	vector<int> d;		
 	vector<int> arr;	//입력받을 배열
-	int max(1);			//가장 긴 길이
+	int max(1);		//가장 긴 길이
 
 	d.resize(input);
 	arr.resize(input);
