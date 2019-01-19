@@ -18,3 +18,4 @@
 - [제곱수의 합](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/16_%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%20%ED%95%A9)
 - [3xn 타일링](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/17_3xn%20%ED%83%80%EC%9D%BC%EB%A7%81)
 - [파도반 수열](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/18_%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4)
+- [합분해](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/19_%ED%95%A9%EB%B6%84%ED%95%B4)
