@@ -34,11 +34,8 @@ int main()
             printf("0"); return 0;
         }
 
-        if (left == '0')
-        {
-            d[i] = 0; continue;
-        }
-
+        if (left == '0') continue;
+        
         d[i] = d[i - 1];
 
         if (left == '1' || left == '2' && right < '7')
