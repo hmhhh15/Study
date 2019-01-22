@@ -1,4 +1,4 @@
->### 문제 : https://www.acmicpc.net/problem/9461
+>### 문제 : https://www.acmicpc.net/problem/2011
 ````c
 #include <stdio.h>
 #include <string.h>
