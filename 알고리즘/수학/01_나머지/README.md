@@ -1,1 +1,20 @@
-- [나머지](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%88%98%ED%95%99/01_%EB%82%98%EB%A8%B8%EC%A7%80)
+>### 문제 : https://www.acmicpc.net/problem/10430
+````c
+#include <stdio.h>
+
+int main()
+{
+    size_t a, b, c;
+
+    scanf("%d %d %d", &a, &b, &c);
+
+    printf("%d\n", (a + b) % c);
+    printf("%d\n", (a % c + b % c) % c);
+    printf("%d\n", (a * b) % c);
+    printf("%d\n", ((a % c) * (b % c)) % c);
+
+	return 0;
+}
+
+````
+>
