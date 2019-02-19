@@ -6,3 +6,4 @@
 - [10진법 to B진법](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%88%98%ED%95%99/04_%EC%A7%84%EB%B2%95%20%EB%B3%80%ED%99%982)
 - [B진법 to 10진법](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%88%98%ED%95%99/05_B%EC%A7%84%EB%B2%95%2010%EC%A7%84%EB%B2%95%EC%9C%BC%EB%A1%9C)
 - [-2진수](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%88%98%ED%95%99/06%20-2%EC%A7%84%EB%B2%95)
+- [Base Conversion](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%88%98%ED%95%99/07%20Base%20Conversion)
