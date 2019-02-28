@@ -94,4 +94,4 @@ int partition(int *v, int left, int right)
     return high;
 }
 ````
-> 백준 강의 코드와 인터넷 검색(https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html)을 통해 수정한 코드 둘다 구현해 보았지만, 후자가 시간이 더 걸리나보다.
+> 백준 강의 코드와 인터넷 검색(https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html)을 통해 수정한 코드 둘다 구현해 보았지만, 후자가 앞뒤로 탐색을 하기 때문에 시간이 더 걸리는 듯하다.
