@@ -7,3 +7,4 @@
 - [국영수](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC/05%20%EA%B5%AD%EC%98%81%EC%88%98)
 - [수 정렬하기3](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC/06%20%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03)
 - [카드(map)](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC/07%20%EC%B9%B4%EB%93%9C)
+- [K번째 수(nth_element)](https://github.com/hmhhh15/Study/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC/08%20K%EB%B2%88%EC%A7%B8%20%EC%88%98)
