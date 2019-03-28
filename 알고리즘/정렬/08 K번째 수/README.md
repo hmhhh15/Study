@@ -1,4 +1,4 @@
->### 문제 : https://www.acmicpc.net/problem/11652
+>### 문제 : https://www.acmicpc.net/problem/11004
 ````c
 #include <stdio.h>
 #include <vector>
